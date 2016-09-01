@@ -1,1 +1,4 @@
 Este es un archivo creado en mi notebook para subir a GitHub.
+
+Estas líneas se ingresaron para el segundo cambio realizado. Nuevamente se ve si se sobreescriben archivos con 
+notificación si es que no son iguales.
